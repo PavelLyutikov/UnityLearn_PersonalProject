@@ -6,7 +6,7 @@ This project was implemented by me as one of the tasks of the Unity Learn course
 
 ____
 
-<img src="file:///Users/pavellyutikov/Documents/GitHub/UnityLearn_PersonalProject/Screenshot/scr.png" title="" alt="scr.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_PersonalProject/blob/main/Screenshot/scr.png?raw=true" title="" alt="scr.png" data-align="center">
 
 ___
 
